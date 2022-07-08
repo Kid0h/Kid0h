@@ -3,5 +3,5 @@
 I'm Kid.
 </p>
 
-<p align='center'>I’m interested in mostly C/C++, networking, graphics and operating systems</a>.</p>
+<p align='center'>Mainly using C/C++, interested in operating systems, low-level, and networking.</a>.</p>
 <p align='center'>You can reach me at Discord <b>Kid#3539</b></a>.</p>
