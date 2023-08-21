@@ -4,4 +4,4 @@ I'm Kid
 </p>
 
 <p align='center'>Mostly using C/C++, interested in operating systems, low-level, and networking</a>.</p>
-<p align='center'>You can reach me through Discord <b>@kid0h</b>
+<p align='center'>You can reach me through Discord @ <b>kid0h</b>
